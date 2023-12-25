@@ -1,0 +1,22 @@
+{
+  "name": "beubie-skin-analyzer-api",
+  "version": "1.0.0",
+  "description": "RESTful API for Beubie's Skin Analyzer feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api",
+    "skin",
+    "analyzer"
+  ],
+  "author": "Fikri Rozi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
